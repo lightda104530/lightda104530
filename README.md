@@ -1,13 +1,13 @@
 ### Hi there I'm [lightda](https://github.com/lightda104530)! 👋
 <br>
 <a href="https://twitter.com/lightda104530">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/lightda104530/lightda104530/svg/social/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/social/twitter.svg" />
 </a>
 <a href="https://t.me/lightda">
-  <img align="left" alt="Telegram" width="22px" src="https://github.com/lightda104530/lightda104530/svg/social/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/social/telegram.svg" />
 </a>
 <a href="https://www.reddit.com/user/lightda104530">
-  <img align="left" alt="Reddit" width="22px" src="https://github.com/lightda104530/lightda104530/svg/social/reddit.svg" />
+  <img align="left" alt="Reddit" width="22px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/social/reddit.svg" />
 </a>
 <br />
 
@@ -16,7 +16,7 @@
 ### Hi 🙋‍♂️,
 ### I'm a 18 years old developer from Taiwan.
 
-#### - 📖 Now Learning Java <code><img width="26px" src="https://github.com/lightda104530/lightda104530/svg/langs/java.svg"></code>, Javascript <code><img width="26px" src="https://github.com/lightda104530/lightda104530/svg/langs/javascript.svg"></code>.
+#### - 📖 Now Learning Java <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/java.svg"></code>, Javascript <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/javascript.svg"></code>.
 
 
 

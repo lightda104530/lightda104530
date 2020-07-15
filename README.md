@@ -16,7 +16,7 @@
 ### Hi 🙋‍♂️,
 ### I'm a 18 years old developer from Taiwan.
 
-#### - 📖 Learning Python <code><img src="svg/langs/python.svg"></code>, Javascript <code><img src="svg/langs/javascript.svg"></code>.
+#### - 📖 Learning Python <code><img width="22px" src="svg/langs/python.svg"></code>, Javascript <code><img width="22px" src="svg/langs/javascript.svg"></code>.
 
 
 

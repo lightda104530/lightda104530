@@ -1,6 +1,8 @@
-### Hi there lightda! 👋
-
-
+### Hi there I'm [lightda](https://github.com/lightda104530)! 👋
+<br>
+<a href="https://twitter.com/lightda104530">
+  <img align="left" alt="lightda|Twitter" width="22px" src="svg/social/twitter.svg" />
+</a>
 <!--
 **lightda104530/lightda104530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

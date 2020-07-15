@@ -12,8 +12,9 @@
 <br />
 
 <br />
+
 ### Hi,
-### I'm a 18 years old boy from Taiwan which is into Programming and Animating.
+### I'm a 18 years old boy from Taiwan.
 
 
 

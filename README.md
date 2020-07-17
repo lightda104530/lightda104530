@@ -2,7 +2,6 @@
 
 ### Hi there I'm [lightda](https://github.com/lightda104530)! 👋
 ### Here's my Socialmedia accounts.
-<br>
 <a href="https://twitter.com/lightda104530">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/social/twitter.svg" />
 </a>

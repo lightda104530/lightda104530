@@ -14,12 +14,9 @@
 </a>
 <br />
 <hr>
-<br />
-
-### Hi 🙋‍♂️,
 ### I'm a 18 years old developer from Taiwan.
 
-#### - 📖 Now Learning Java <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/java.svg"></code>, Javascript <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/javascript.svg"></code>.
+### - 📖 Now Learning Java <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/java.svg"></code>, Javascript <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/javascript.svg"></code>.
 
 
 

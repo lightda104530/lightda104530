@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile!
+<h1 align=center>Welcome to my GitHub Profile!</h1>
 
 ### Hi there I'm [lightda](https://github.com/lightda104530)! 👋
 <br>

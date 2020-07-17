@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile!
-<hr>
+
 ### Hi there I'm [lightda](https://github.com/lightda104530)! 👋
 <br>
 <a href="https://twitter.com/lightda104530">

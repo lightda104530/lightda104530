@@ -1,4 +1,4 @@
-<h1 align=center>Welcome to my GitHub Profile!</h1>
+<h1 align=center><img src="https://github.com/GoneTone/GoneTone/blob/master/images/svg/github-brands.svg" />Welcome to my GitHub Profile!</h1>
 
 ### Hi there I'm [lightda](https://github.com/lightda104530)! 👋
 <br>

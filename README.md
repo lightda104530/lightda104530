@@ -1,7 +1,7 @@
 <h1 align=center><img width="30px" height="30px" src="https://github.com/GoneTone/GoneTone/blob/master/images/svg/github-brands.svg" /> Welcome to my GitHub Profile!</h1>
 
 ### Hi there I'm [lightda](https://github.com/lightda104530)! 👋
-### Here's my Social Medias account.
+### Here's my Socialmedia accounts.
 <br>
 <a href="https://twitter.com/lightda104530">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/social/twitter.svg" />
@@ -15,9 +15,8 @@
 <br />
 <hr>
 
-### I'm a 18 years old developer from Taiwan.
-
-### - 📖 Now Learning Java <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/java.svg"></code>, Javascript <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/javascript.svg"></code>.
+#### I'm a 18 years old developer from Taiwan.
+#### - 📖 Now Learning Java <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/java.svg"></code>, Javascript <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/javascript.svg"></code>.
 
 
 

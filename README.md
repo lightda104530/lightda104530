@@ -26,7 +26,7 @@
 ### Languages & Tools...
 
 <p align="center">
-<img width="90px" src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=ffffff" /> <img width="80px" src="https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java" /> <img width="95px" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=000&labelColor=yellow" />
+<img width="90px" src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=ffffff" /> <img width="80px" src="https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java" /> <img width="190px" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=000&labelColor=yellow" />
 
 </p>
 <!--

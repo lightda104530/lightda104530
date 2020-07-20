@@ -26,7 +26,7 @@
 ### Languages & Tools...
 
 <p align="center">
-<img width="90px" src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=ffffff" /> <img width="76px" src="https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java" /> <img width="116px" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=000" /> <img width="92px" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=fff" />
+<img width="90px" src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=ffffff" /> <img width="76px" src="https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java" /> <img width="118px" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=000" /> <img width="91px" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=fff" />
 
 </p>
 

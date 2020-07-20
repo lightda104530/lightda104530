@@ -1,6 +1,6 @@
 <h1 align=center><img width="30px" height="30px" src="https://github.com/GoneTone/GoneTone/blob/master/images/svg/github-brands.svg" /> Welcome to my GitHub Profile!</h1>
 
-### Hi there I'm [lightda](https://github.com/lightda104530)! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" />
+### Hi there I'm [lightda](https://github.com/lightda104530)! <img width="22px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" />
 ### Here's my Socialmedia accounts.
 <a href="https://twitter.com/lightda104530">
   <img align="left" alt="Twitter" width="22px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/social/twitter.svg" />

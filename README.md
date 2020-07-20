@@ -26,13 +26,13 @@
 ### Languages & Tools...
 
 <p align="center">
-<img width="90px" src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=ffffff" /> <img width="76px" src="https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java" /> <img width="121px" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=000" /> <img width="94px" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=fff" />
+<img width="90px" src="https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=ffffff" /> <img width="76px" src="https://img.shields.io/badge/-JAVA-orange?style=flat&logo=java" /> <img width="116px" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=000" /> <img width="92px" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=fff" />
 
 </p>
 
 ### YouTube
 <p algin="center">
-  <img width="80px" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=fff" />
+  <img algin="center" width="80px" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=fff" />
 </p>
 <!--
 **lightda104530/lightda104530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

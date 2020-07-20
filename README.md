@@ -32,7 +32,9 @@
 
 ### YouTube
 <p align="center">
-  <img width="80px" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=fff" />
+  <a href="https://www.youtube.com/c/lightda">
+    <img width="80px" src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=fff" />
+  </a>
 </p>
 <!--
 **lightda104530/lightda104530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

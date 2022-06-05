@@ -14,12 +14,10 @@
 -->
 
 <h1 align=center><img width="30px" height="30px" src="https://github.com/GoneTone/GoneTone/blob/master/images/svg/github-brands.svg" /> Welcome to my GitHub Profile!</h1>
-[![SVG_Typing](https://readme-typing-svg.herokuapp.com?duration=4700&width=600&lines=Hi!++I'm+lightda.;A+student+from+Taiwan+which+likes+to+code.;I+used+to+participate+some+development+of+projects.)](https://git.io/typing-svg)
-
-👋 Hi, I'm lightda! A student from Taiwan which likes to code. I used to participate some development of projects.
-<br>
+<a href="https://github.com/lightda104530"><img src="https://readme-typing-svg.herokuapp.com?duration=4700&width=600&lines=Hi!++I'm+lightda.;A+student+from+Taiwan+which+likes+to+code.;I+used+to+participate+some+development+of+projects."></a>
+<br><!--
 📖 Now Learning Java <code><img width="26px" margin-bottom= "200px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/java.svg"></code>, Javascript <code><img width="26px" src="https://github.com/lightda104530/lightda104530/blob/master/svg/langs/javascript.svg"></code>.
-
+-->
 <h2><img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/profile/id-card-solid.svg" height="24px" alt="Profile"> Personal Profile</h2>
 
 Real Name: 賴柏達 BO DA, LAI

@@ -14,6 +14,7 @@
 -->
 
 <h1 align=center><img width="30px" height="30px" src="https://github.com/GoneTone/GoneTone/blob/master/images/svg/github-brands.svg" /> Welcome to my GitHub Profile!</h1>
+[![SVG_Typing](https://readme-typing-svg.herokuapp.com?duration=4700&width=600&lines=Hi!++I'm+lightda.;A+student+from+Taiwan+which+likes+to+code.;I+used+to+participate+some+development+of+projects.)](https://git.io/typing-svg)
 
 👋 Hi, I'm lightda! A student from Taiwan which likes to code. I used to participate some development of projects.
 <br>
